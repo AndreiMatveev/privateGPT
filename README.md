@@ -9,6 +9,10 @@ Built with [LangChain](https://github.com/hwchase17/langchain), [GPT4All](https:
 In order to set your environment up to run the code here, first install all requirements:
 
 ```shell
+apt install python3-full
+apt install virtualenv
+virtualenv .
+source bin/activate
 pip install -r requirements.txt
 ```
 
@@ -19,6 +23,7 @@ Rename `example.env` to `.env` and edit the variables appropriately.
 ```
 MODEL_TYPE: supports LlamaCpp or GPT4All
 PERSIST_DIRECTORY: is the folder you want your vectorstore in
+SOURCE_DIRECTORY: folder for the input documents to be ingested from
 MODEL_PATH: Path to your GPT4All or LlamaCpp supported LLM
 MODEL_N_CTX: Maximum token limit for the LLM model
 EMBEDDINGS_MODEL_NAME: SentenceTransformers embeddings model name (see https://www.sbert.net/docs/pretrained_models.html)
@@ -81,6 +86,12 @@ In order to ask a question, run a command like:
 ```shell
 python privateGPT.py
 ```
+
+If you want to host a webchat application and talk to your llm from the browser, run:
+```shell
+python privateGPTserver.py
+```
+
 
 And wait for the script to require your input.
 
