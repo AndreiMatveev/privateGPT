@@ -34,6 +34,7 @@ load_dotenv()
 persist_directory = os.environ.get('PERSIST_DIRECTORY')
 source_directory = os.environ.get('SOURCE_DIRECTORY', 'source_documents')
 embeddings_model_name = os.environ.get('EMBEDDINGS_MODEL_NAME')
+sentence_transformers_home = os.environ.get('SENTENCE_TRANSFORMERS_HOME')
 chunk_size = 500
 chunk_overlap = 50
 

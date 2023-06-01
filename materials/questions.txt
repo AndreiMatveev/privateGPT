@@ -1,0 +1,38 @@
+What is the Full legal name of the Company?
+Where is the Corporate headquarters?
+What is the company's Address?
+What is the company's Phone number?
+What is the company's e-mail address?
+Provide the company's corporate HQ location and geographical footprint for offices located globally?
+How many staff members/resources does the company have across US, Canada, Mexico, and India?
+How many freelancers/Contractors does company have?
+What is the Year of Inception?
+What is the Main Office Location (City, State, and Country)?
+Can you provide a brief description of the company including an overview of products and services?
+What was the 2022 Annual Revenue (US $)?
+Who are the main competitors?
+Which companies are considered to be main competitors, and what is considered as competitive advantages relative to them?
+Does company work with any of these companies: Apple, Microsoft Corporation, Twitter Inc., Facebook, Yahoo!, Amazon.com?
+Can you indicate the company's revenue, EBITDA, and net income for the past 3 fiscal years?
+Can you describe the company's working capital/cash position and its ability to remain viable over the period of the contract?
+Can you provide details of any material changes (e.g. ownership, structure, acquisition) in the last financial year?
+Can you indicate the company's average turnover rate for the past 24 months?
+Can you please identify onshore and offshore locations and number of employees at each location?
+Can you provide a brief history and profile of the company? Can you briefly describe the company's key strategies and business plans for the next 3 years?
+Who are the company's top three (3) customers? What percentage of the company's revenue do they represent?
+Who are the company's top five (5) customers? What percentage of the company's revenue do they represent?
+Can you describe if the company provides resources for clients internally or if the company go to market for new hires or contractors?
+What has been company's employee retention rate over the last 3 years across major locations?
+Can you specify top countries for LATAM, EMEA, and APAC?
+What are the company's top industry verticals by revenue?
+What year did EPAM become a public company?
+What was the percentage of revenue derived from the top five and top ten of customers in the year 2022?
+In the year 2022, which were the top three industry verticals in terms of revenue in Europe?
+What are the risks that could potentially affect EPAM's current operations?
+As Life Sciences is a top source of the company revenue, could you enumerate the operational risks associated with this area?
+Is India the company's largest location?
+How did the company benefit from authorities' aid last year? (current year is 2023)
+How much did the largest industry vertical grow in the last year? (current year is 2023)
+In which regions did the company face revenue decrease?
+How many customers who spent over 10$ mln does the company have? (year 2022)
+What countries are included in the CEE region?
